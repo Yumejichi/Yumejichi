@@ -1,7 +1,6 @@
-<div align="center">
-  <h1>👋 Hi, I'm Yumejichi</h1>
-  <h3>Full-Stack Developer | Mobile App Developer</h3>
-</div>
+# 👋 Hi, I'm Yumejichi
+
+### Full-Stack Developer | Mobile App Developer
 
 ---
 
