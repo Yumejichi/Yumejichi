@@ -43,17 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yumejichi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumejichi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
 
 ### 🚀 Featured Projects
 
@@ -85,15 +75,6 @@
 
 ---
 
-### 📈 Activity
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yumejichi&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
 
 ### 🔗 Quick Links
 
