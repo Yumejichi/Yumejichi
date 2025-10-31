@@ -32,17 +32,20 @@
 ### 🚀 Featured Projects
 
 #### 🎨 Artist Info Searching App
+
 **Full-stack web & mobile application for searching artist information using Artsy API**
 
 - **[Web App](https://github.com/Yumejichi/Artist-Info-Searching-App)** - Angular, Node.js, Express, MongoDB
 - **[Android App](https://github.com/Yumejichi/Artist-Info-Searching-App-Android)** - Kotlin, Jetpack Compose
 
 #### 💼 JobFitChecker
+
 **Application to help job seekers find the right fit**
 
 - [Repository](https://github.com/Yumejichi/JobFitChecker)
 
 #### 🐾 PetJournal
+
 **Pet care tracking and journaling application**
 
 - [Repository](https://github.com/Yumejichi/PetJournal)
@@ -56,6 +59,14 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yumejichi&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
+
+---
+
+### 🔗 Quick Links
+
+- 🌐 **Portfolio**: [Your Portfolio URL] (or remove this line if you don't have one)
+- 📧 **Email**: [your.email@example.com] (or remove this line if you prefer not to share)
+- 💼 **LinkedIn**: [Your LinkedIn Profile] (optional)
 
 ---
 
