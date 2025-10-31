@@ -51,7 +51,7 @@
 
 **Full-stack web & mobile application for searching artist information using Artsy API**
 
-- **[🌐 Live Demo](https://artist-info-searching-app.wl.r.appspot.com/search)** - Deployed on Google Cloud Platform
+- **[🌐 Web Link](https://artist-info-searching-app.wl.r.appspot.com/search)** - Deployed on Google Cloud Platform
 - **[Web App Repository](https://github.com/Yumejichi/Artist-Info-Searching-App)** - Angular, Node.js, Express, MongoDB
 - **[Android App Repository](https://github.com/Yumejichi/Artist-Info-Searching-App-Android)** - Kotlin, Jetpack Compose
 
@@ -71,16 +71,7 @@
 
 **Weather-based planning and reminder application**
 
-- [Repository](https://github.com/Yumejichi/RainCheck)
-
----
-
-
-### 🔗 Quick Links
-
-- 🌐 **Portfolio**: [Your Portfolio URL] (or remove this line if you don't have one)
-- 📧 **Email**: [your.email@example.com] (or remove this line if you prefer not to share)
-- 💼 **LinkedIn**: [Your LinkedIn Profile] (optional)
+- [Repository](https://github.com/dongKenny/rainCheck)
 
 ---
 
