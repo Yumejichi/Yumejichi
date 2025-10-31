@@ -32,18 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yumejichi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumejichi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 #### 🎨 Artist Info Searching App
@@ -61,7 +49,7 @@
 
 #### 🐾 PetJournal
 
-**Pet care tracking and journaling application**
+**Pet Info tracking and journaling application**
 
 - [Repository](https://github.com/Yumejichi/PetJournal)
 
