@@ -53,6 +53,12 @@
 
 - [Repository](https://github.com/Yumejichi/PetJournal)
 
+#### ☔ RainCheck App
+
+**Weather-based planning and reminder application**
+
+- [Repository](https://github.com/Yumejichi/RainCheck)
+
 ---
 
 
