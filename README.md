@@ -73,7 +73,6 @@
 **Pet care tracking and journaling application**
 
 - [Repository](https://github.com/Yumejichi/PetJournal)
-- 
 ---
 
 <div align="center">
