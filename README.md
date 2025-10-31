@@ -61,18 +61,19 @@
 
 - [Repository](https://github.com/Yumejichi/JobFitChecker)
 
+
+#### ☔ RainCheck App
+
+**Weather-based clothing recommendation mobile application**
+
+- [Repository](https://github.com/dongKenny/rainCheck)
+
 #### 🐾 PetJournal
 
 **Pet care tracking and journaling application**
 
 - [Repository](https://github.com/Yumejichi/PetJournal)
-
-#### ☔ RainCheck App
-
-**Weather-based planning and reminder application**
-
-- [Repository](https://github.com/dongKenny/rainCheck)
-
+- 
 ---
 
 <div align="center">
