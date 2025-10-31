@@ -32,14 +32,27 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yumejichi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumejichi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
 ### 🚀 Featured Projects
 
 #### 🎨 Artist Info Searching App
 
 **Full-stack web & mobile application for searching artist information using Artsy API**
 
-- **[Web App](https://github.com/Yumejichi/Artist-Info-Searching-App)** - Angular, Node.js, Express, MongoDB
-- **[Android App](https://github.com/Yumejichi/Artist-Info-Searching-App-Android)** - Kotlin, Jetpack Compose
+- **[🌐 Live Demo](https://artist-info-searching-app.wl.r.appspot.com/search)** - Deployed on Google Cloud Platform
+- **[Web App Repository](https://github.com/Yumejichi/Artist-Info-Searching-App)** - Angular, Node.js, Express, MongoDB
+- **[Android App Repository](https://github.com/Yumejichi/Artist-Info-Searching-App-Android)** - Kotlin, Jetpack Compose
 
 #### 💼 JobFitChecker
 
@@ -49,7 +62,7 @@
 
 #### 🐾 PetJournal
 
-**Pet Info tracking and journaling application**
+**Pet care tracking and journaling application**
 
 - [Repository](https://github.com/Yumejichi/PetJournal)
 
@@ -61,6 +74,15 @@
 
 ---
 
+### 📈 Activity
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yumejichi&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
 
 ### 🔗 Quick Links
 
