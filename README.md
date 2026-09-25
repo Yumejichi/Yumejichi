@@ -47,6 +47,15 @@
 
 ### 🚀 Featured Projects
 
+#### 🎮 A Cat, a Mouse, and a House
+
+A team game project I contributed to.
+
+- [Play the game](https://dw61.github.io/acat-game/)
+
+
+
+
 #### 🎨 Artist Info Searching App
 
 **Full-stack web & mobile application for searching artist information using Artsy API**
@@ -77,4 +86,3 @@
 
 <div align="center">
   <p>⭐️ From <a href="https://github.com/Yumejichi">@Yumejichi</a></p>
-</div>
