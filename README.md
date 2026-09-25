@@ -51,6 +51,8 @@
 
 A team game project I contributed to.
 
+**Technologies:** C#, Unity
+
 - [Play the game](https://dw61.github.io/acat-game/)
 
 
